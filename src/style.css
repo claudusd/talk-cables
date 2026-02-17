@@ -1,0 +1,21 @@
+.reveal section table {
+  max-width: 95%;
+  max-height: 95%;
+  font-size: 0.8em; /* réduire un peu la taille de la police */
+  table-layout: fixed; /* colonnes égales */
+  word-wrap: break-word; /* couper le texte long */
+}
+
+.reveal section table img {
+  width: 50%;
+  height: 50%;
+  object-fit: contain; /* garde les proportions */
+}
+
+.reveal section table {
+  width: 100%;          /* prend toute la largeur de la slide */
+  table-layout: fixed;   /* colonnes égales */
+  border-collapse: collapse;
+  word-wrap: break-word; /* coupe le texte trop long */
+  font-size: 1.0vw; /* s’adapte à la largeur de la slide */
+}
