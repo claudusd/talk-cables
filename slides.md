@@ -1,8 +1,10 @@
-# Pictogrammes, normes, couleurs… Bienvenue dans le dessous des câbles 
+<img src="/images/image_intro.png"  />
 
 ---
 
-## USB
+## USB 
+
+Janvier 1996
 
 --
 
